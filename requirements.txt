@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-genai
+pydantic>=2.0
+moviepy
+pydub
+fpdf2
