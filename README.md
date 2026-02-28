@@ -5,7 +5,7 @@
 The **Lecture Voice-to-Notes Generator** is an advanced AI-Powered Study Assistant designed to revolutionize the way students and professionals convert passive lecture recordings into actionable study materials. By integrating robust media handling with Google's Gemini API, this application automatically transcribes long video or audio files, generates concise academic study notes, and creates structured quizzes and flashcards for self-assessment.
 
 ## 🌐 Live Deployment
-Try it yourself: https://piyushrajcodes-lvtng.streamlit.app/
+Try it yourself: [https://raginicodes-lvtng.streamlit.app/](https://lecture-to-voice-generator.streamlit.app/)
 
 
 ## ✨ Core Features & Technical Highlights
@@ -126,7 +126,7 @@ This project was successfully completed as part of the **Edunet IBM Internship**
 
 | Role | Name | LinkedIn Profile |
 | :--- | :--- | :--- |
-| **Intern/Developer** | Piyush Raj | [Profile Link](https://www.linkedin.com/in/piyushraxz) |
+| **Intern/Developer** | Ragini Mishra |
 | **Esteemed Guide** | Dr. Nanthini Mohan | [Profile Link](https://www.linkedin.com/in/dr-nanthini-mohan-9a727a105/) |
 
 -----
