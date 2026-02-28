@@ -1,1 +1,4 @@
 ffmpeg
+libjpeg-dev
+libpython3-dev
+zlib1g-dev
